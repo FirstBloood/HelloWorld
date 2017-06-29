@@ -5,6 +5,7 @@ public class D101_FirstDemo {
 		System.out.println("firstB");
 		System.out.println("blood");
 		System.out.println("commit in hone");
+		System.out.println("commit in hone success");
 	}
 
 }
